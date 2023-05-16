@@ -1,7 +1,7 @@
 # dog-gallery
 Reactを使用したチュートリアルです。
 このコードは、Reactを使用して作成されたシンプルなウェブアプリケーションです。
-<img =""
+![dog](https://github.com/Zakuro890/dog-gallery/assets/102887065/63152923-0478-4971-95fa-76cc573e012a)
 # コンポーネントの説明
 Headerコンポーネント:<br>
 ヘッダーセクションを表示するコンポーネントです。タイトル "Cute Dog Images" を表示します。
